@@ -1,0 +1,19 @@
+# logs and local state
+*.log
+last_img.sig
+last_files.sig
+
+# runtime artifacts
+files/
+*.clip
+*.seen
+*.recv
+*.files
+*.fseen
+*.frecv
+
+# editor / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
