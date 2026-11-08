@@ -1,6 +1,8 @@
-# Architecture notes
+﻿# Architecture notes
 
 Design decisions and the failures that forced them. Most of this was learned the hard way.
+
+**English** | [简体中文](ARCHITECTURE.zh-CN.md)
 
 ---
 

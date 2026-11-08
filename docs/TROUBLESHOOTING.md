@@ -1,6 +1,8 @@
-# Troubleshooting
+﻿# Troubleshooting
 
 Symptom → cause → fix. Check `%LOCALAPPDATA%\clipsync\clipsync.log` and `guard.log` first.
+
+**English** | [简体中文](TROUBLESHOOTING.zh-CN.md)
 
 ---
 

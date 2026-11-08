@@ -1,6 +1,8 @@
-# Changelog
+﻿# Changelog
 
 Versions reflect a real deployment, built and debugged across two machines. Each entry lists what broke and why the fix looks the way it does.
+
+**English** | [简体中文](CHANGELOG.zh-CN.md)
 
 ---
 

@@ -1,4 +1,6 @@
-# clipsync
+﻿# clipsync
+
+**English** | [简体中文](README.zh-CN.md)
 
 Cross-machine clipboard sync for Windows — **text, images, and files** — over an SMB share. No server, no agent, no cloud.
 
@@ -176,6 +178,8 @@ All thresholds are parameters: `-MaxPublishBytes`, `-MaxFilesTotalBytes`, `-MaxI
 - [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) — design notes, protocol, and the pitfalls behind each decision
 - [`docs/TROUBLESHOOTING.md`](docs/TROUBLESHOOTING.md) — symptom → cause → fix
 - [`CHANGELOG.md`](CHANGELOG.md) — the version history, including the bugs that shaped the design
+
+Chinese: [`README.zh-CN.md`](README.zh-CN.md) · [`docs/ARCHITECTURE.zh-CN.md`](docs/ARCHITECTURE.zh-CN.md) · [`docs/TROUBLESHOOTING.zh-CN.md`](docs/TROUBLESHOOTING.zh-CN.md) · [`CHANGELOG.zh-CN.md`](CHANGELOG.zh-CN.md)
 
 ---
 
